@@ -28,12 +28,7 @@ Deep learning models require a large dataset to function successfully. Grape lea
 - Warnings
 
 ## Model Evaluation
-No	Model Name	Total training time(min)	Training Accuracy	Test Accuracy
-1	CNN	31.2	100	99.83
-2	VGG16	47.4	99.80	99.50
-3	MobileNetV2	28.6	99.96	99.89
-4	InceptionV3	30.5	99.97	99.83
-5	AlexNet	19.2	99.64	99.56
+
 
 
 
