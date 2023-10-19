@@ -18,16 +18,26 @@ Deep learning models require a large dataset to function successfully. Grape lea
 - Pandas
 - NumPy
 - Matplotlib
-- 
-- 
+- Torchvision
+- Tensorflow
 - SciPy
 - Sklearn
-- 
-- 
-- 
+- Seaborn
 - Warnings
 
-## Model Evaluation
+## 2. CLASSIFICATION EVALUATION
+
+|         ALGORITHMS        | TRAINING  DATA ACCURACY SCORE | VALIDATION DATA ACCURACY SCORE |
+| --------------------------| ----------------------------- | --------------------------- |
+| CNN                       |            100%               |           99.83%            |
+| VGG16                     |            99.80%             |           99.50%            |
+| MobileNetV2               |            99.96%             |           99.89%            |
+| InceptionV3               |            99.97%             |           99.83%            |
+| AlexNet                   |            99.64%             |           99.56%            |
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### :key: CONCLUSION
 
 
 
